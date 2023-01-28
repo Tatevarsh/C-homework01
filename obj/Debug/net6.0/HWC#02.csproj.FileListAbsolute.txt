@@ -1,0 +1,15 @@
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\bin\Debug\net6.0\HWC#02.exe
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\bin\Debug\net6.0\HWC#02.deps.json
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\bin\Debug\net6.0\HWC#02.runtimeconfig.json
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\bin\Debug\net6.0\HWC#02.dll
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\bin\Debug\net6.0\HWC#02.pdb
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.csproj.AssemblyReference.cache
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.AssemblyInfoInputs.cache
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.AssemblyInfo.cs
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.csproj.CoreCompileInputs.cache
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.dll
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\refint\HWC#02.dll
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.pdb
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\HWC#02.genruntimeconfig.cache
+C:\Users\tshav\OneDrive\Рабочий стол\HWC#02\obj\Debug\net6.0\ref\HWC#02.dll
